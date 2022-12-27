@@ -1,0 +1,6 @@
+[template]
+cargo_generate_version = "0.17.0"
+
+[placeholders]
+project_description = { type= "string", prompt="Project description" }
+project_authors = { type = "string", prompt = "Authors" }
