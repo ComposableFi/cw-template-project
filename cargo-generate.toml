@@ -1,3 +1,2 @@
 [placeholders]
 project_description = { type= "string", prompt="Project description" }
-project_authors = { type = "string", prompt = "Authors" }
